@@ -11,6 +11,11 @@ tests/e2e/reports
 selenium-debug.log
 
 # Editor directories and files
+dist
+dist.zip
+generate_and_zip.sh
+dd.md
+
 .idea
 .vscode
 *.suo
